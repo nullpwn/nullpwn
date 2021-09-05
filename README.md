@@ -22,8 +22,7 @@
 
 ## 🎧 Spotify-Playing
 
-[img src="https://novatorem-nullpwn.vercel.app/api/spotify-playing" alt="Alwin Spotify Playing" width="350" />]
-(https://open.spotify.com/user/mvvb8yzbgep2cu9pupniq4c2t)
+[![Spotify](https://nullpwn.vercel.app/api/spotify)](https://open.spotify.com/user/mvvb8yzbgep2cu9pupniq4c2t)
 
 ## 🚀 Languages and Tools:
 
