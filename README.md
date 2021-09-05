@@ -18,6 +18,8 @@
 
 - ⚡ Fun fact **I am a workaholic :-P**
 
+- 🀄 Licensed under the [MIT LICENSE](LICENSE)
+
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
