@@ -22,7 +22,7 @@
 
 ## 🎧 Spotify-Playing
 
-(https://open.spotify.com/user/mvvb8yzbgep2cu9pupniq4c2t)
+**Spotify[(https://open.spotify.com/user/mvvb8yzbgep2cu9pupniq4c2t)]**
 
 ## 🚀 Languages and Tools:
 
