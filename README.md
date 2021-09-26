@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning about **Open Source Intelligence.**
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 👯 I’m looking to collaborate on **OpenSource Projects.**
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://alwinpaul.me)**
 
