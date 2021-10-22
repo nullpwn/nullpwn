@@ -10,7 +10,7 @@
 
 - 🔭 I'm a graduate in **Computer Science.** 
 
-- 🌱 I’m currently learning about **Open Source Intelligence.**
+- 🌱 I’m currently learning about **Web Application Pentration Testing.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects.**
 
