@@ -68,7 +68,7 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/alwin-pau/"><img src="https://img.icons8.com/cute-clipart/45/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/alwin-paul/"><img src="https://img.icons8.com/cute-clipart/45/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/_alwinpaul_"><img src="https://img.icons8.com/cotton/45/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/_alwinpaul_/"><img src="https://img.icons8.com/color/45/000000/instagram-new.png"/></a>
 <a href = "https://www.facebook.com/alwin.paul.4040/"><img src="https://img.icons8.com/fluent/48/000000/facebook-new.png"/></a>
