@@ -3,18 +3,18 @@
 </p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Alwin</h1>
-<h3 align="center">I'm a passionate Information Security Researcher from India.</h3>
+<h3 align="center">I'm a passionate Information Security Researcher from India 🇮🇳.</h3>
 
 
 ## 🙋‍♂️ About Me
 
 - 👨‍🎓 I'm a graduate in **Computer Science.** 
 
-- 🌱 I’m currently learning about **Web Application Pentration Testing.**
+- 🐱‍💻 I’m currently learning about **Web Application Pentration Testing.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects.**
 
-- 🐱‍💻 All of my projects are available at **[My Portfolio](https://alwinpaul.me)**
+- 🧑‍💻 All of my projects are available at **[My Portfolio](https://alwinpaul.me)**
 
 - 💬 How to reach me **alwinpaul720@gmail.com**
 
