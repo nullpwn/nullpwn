@@ -8,15 +8,15 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I'm a graduate in **Computer Science.** 
+- 👨‍🎓 I'm a graduate in **Computer Science.** 
 
 - 🌱 I’m currently learning about **Web Application Pentration Testing.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects.**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://alwinpaul.me)**
+- 🐱‍💻 All of my projects are available at **[My Portfolio](https://alwinpaul.me)**
 
-- 📫 How to reach me **alwinpaul720@gmail.com**
+- 💬 How to reach me **alwinpaul720@gmail.com**
 
 - ⚡ Fun fact **I am a workaholic :-P**
 
