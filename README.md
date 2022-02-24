@@ -16,7 +16,7 @@
 
 - 🧑‍💻 All of my projects are available at **[My Portfolio](https://alwinpaul.me)**
 
-- 💬 How to reach me **alwinpaul720@gmail.com**
+- 💬 How to reach me **alwin.paulpv@gmail.com**
 
 - ⚡ Fun fact **I am a workaholic :-P**
 
