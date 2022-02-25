@@ -28,7 +28,7 @@
 
 ## 🎧 Spotify - Playing
 
-<p align=center>[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=mvvb8yzbgep2cu9pupniq4c2t&cover_image=false&theme=default)](https://github.com/kittinan/spotify-github-profile)</p>
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=mvvb8yzbgep2cu9pupniq4c2t&cover_image=false&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
 ## 🚀 Languages and Tools:
 
