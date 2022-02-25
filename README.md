@@ -1,6 +1,8 @@
 <p align="center">
-<a href="#"><img src="https://github.com/nullpwn/nullpwn/blob/main/code.gif" height="280px"/></a>
-</p>
+<!-- <a href="#"><img src="https://github.com/nullpwn/nullpwn/blob/main/code.gif" height="280px"/></a> -->
+<a href="#"><img src="[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&lines=Hi%2C+I'm+Alwin+Paul)](https://git.io/typing-svg)" height="280px"/></a>
+</p> 
+
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Alwin</h1>
 <h3 align="center">I'm a passionate Information Security Researcher from India 🇮🇳.</h3>
