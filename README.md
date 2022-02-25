@@ -55,8 +55,8 @@
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/nullpwn"><img alt="Alwin Paul's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nullpwn&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/nullpwn"><img alt="Alwin Paul's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nullpwn&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/nullpwn"><img height="180em" alt="Alwin Paul's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nullpwn&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/nullpwn"><img height="180em" alt="Alwin Paul's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nullpwn&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
