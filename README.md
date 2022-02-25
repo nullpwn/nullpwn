@@ -1,11 +1,13 @@
 <p align="center">
 <!-- <a href="#"><img src="https://github.com/nullpwn/nullpwn/blob/main/code.gif" height="280px"/></a> -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&lines=Hi%2C+I'm+Alwin+Paul)](https://git.io/typing-svg)
+ <a href="https://www.linkedin.com/in/alwin-paul/">
+    <img src="https://readme-typing-svg.herokuapp.com/?color=%2336BCF7&center=true&lines=Hi%2C+I%27m+Alwin+Paul">
+  </a> 
 </p> 
 
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Alwin</h1>
-<h3 align="center">I'm a passionate Information Security Researcher from India 🇮🇳.</h3>
+<!-- <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Alwin</h1>
+<h3 align="center">I'm a passionate Information Security Researcher from India 🇮🇳.</h3> -->
 
 
 ## 🙋‍♂️ About Me
