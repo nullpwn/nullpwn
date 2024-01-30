@@ -64,7 +64,6 @@
 <br/>
 <br/>
 
-<a href="https://github.com/nullpwn"><img alt="Alwin Paul's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=nullpwn&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
@@ -74,7 +73,7 @@
 
 <a href = "https://www.linkedin.com/in/alwin-paul/"><img src="https://img.icons8.com/cute-clipart/45/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/_alwinpaul_"><img src="https://img.icons8.com/cotton/45/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/_alwin.paul_/"><img src="https://img.icons8.com/color/45/000000/instagram-new.png"/></a>
+<a href = "https://www.instagram.com/alwi._nn/"><img src="https://img.icons8.com/color/45/000000/instagram-new.png"/></a>
 <a href = "https://www.facebook.com/alwin.paul.4040/"><img src="https://img.icons8.com/fluent/48/000000/facebook-new.png"/></a>
 
 
