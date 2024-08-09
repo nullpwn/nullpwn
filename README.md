@@ -12,7 +12,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 👨‍🎓 I'm a graduate in **Computer Science.** 
+- 👨‍🎓 I'm a Masters student in **Artificial Intelligence.** 
 
 - 🐱‍💻 I’m currently learning about **Web Application Pentration Testing.**
 
