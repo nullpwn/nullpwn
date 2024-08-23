@@ -14,7 +14,7 @@
 
 - 👨‍🎓 I'm a Masters student in **Artificial Intelligence.** 
 
-- 🐱‍💻 I’m currently learning about **Web Application Pentration Testing.**
+- 🐱‍💻 I’m currently learning about ** .**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects.**
 
