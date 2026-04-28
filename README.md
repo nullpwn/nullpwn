@@ -75,10 +75,10 @@
 ## Connect with me:
 
 <p align="left">
-<a href="https://www.linkedin.com/in/alwin-paul/"><img src="https://img.icons8.com/color/48/linkedin.png"/></a>
-<a href="https://x.com/_alwinpaul_"><img src="https://upload.wikimedia.org/wikipedia/commons/5/57/X_logo_2023_%28white%29.png" width="45" height="45"/></a>
-<a href="https://www.instagram.com/alwi._nn/"><img src="https://img.icons8.com/color/45/000000/instagram-new.png"/></a>
-<a href="https://www.facebook.com/alwin.paul.4040/"><img src="https://img.icons8.com/fluent/48/000000/facebook-new.png"/></a>
+  <a href="https://www.linkedin.com/in/alwin-paul/" target="_blank"><img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" height="48"/></a>
+  <a href="https://x.com/_alwinpaul_" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/5/57/X_logo_2023_%28white%29.png" alt="X" height="48"/></a>
+  <a href="https://www.instagram.com/alwi._nn/" target="_blank"><img src="https://img.icons8.com/color/45/000000/instagram-new.png" alt="Instagram" height="48"/></a>
+  <a href="https://www.facebook.com/alwin.paul.4040/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" alt="Facebook" height="48"/></a>
 </p>
 
 ## ❤ Views and Followers
